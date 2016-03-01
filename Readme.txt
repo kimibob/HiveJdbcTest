@@ -1,0 +1,1 @@
+java -cp "/usr/lib/hive/lib/*:/usr/lib/hadoop/*:/usr/lib/hadoop/lib/*:HiveJdbcTest.jar" com.newland.HiveJDBC
